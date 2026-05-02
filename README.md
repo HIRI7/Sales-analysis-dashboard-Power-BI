@@ -33,6 +33,8 @@ Key Features
 
 Dashboard Preview
 
+https://github.com/HIRI7/Sales-analysis-dashboard-Power-BI/blob/2e6f5a50c1394cb4b7ac4488a9083e8cb5e04451/Sales%20performance%20dashboard.png
+
 
 
 
