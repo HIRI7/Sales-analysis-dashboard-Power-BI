@@ -18,17 +18,15 @@ Power BI
 3) Interactive Dashboard Design using slicers
 
 Key Features
+1) Designed Power BI dashboard for analyzing revenue, customers and box sales by 4 product teams (Yummies, Delish, Jucies, Specialty) in 6 countries
+2) Analyzed revenue and customers trends for 12+ months period (January 2021 – March 2022), used trendlines and forecast bands in order to project the future performance
+3) Ranked 7+ sales representatives by their total revenue (up to $8.1 million) and price per box ($16.3-$17.8)
 
-1) Built a Power BI dashboard tracking revenue, customers, and box sales across 4 product teams (Yummies, Delish, Jucies, Specialty) and 6 countries
-2) Analyzed revenue and customer trends over a 12+ month period (Jan 2021–Mar 2022), using trendlines and forecast bands to project near-term performance
-3) Ranked 7+ sales representatives by total revenue (up to $8.1M) and price-per-box ($16.3–$17.8), surfacing top performers by both volume and margin
 
+Key Insights:
 
- Key Insights
-
-1) Revenue is concentrated in one category ("Bars"), which outsells the other two categories combined — indicating a dependency risk if that category's demand shifts.
-2)Customer and revenue trends both show volatility rather than steady growth across the 12+ month window, with a sharp uptick toward the end of the period (late 2021–early 2022) — worth investigating whether this reflects a seasonal pattern or a one-time driver
-
+1) The revenue is concentrated in only one category (Bars), which is outperforming others because it outsells two other categories together, therefore there is a risk of dependency on demand for this product
+2) Both customer and revenue trends have volatility without constant increase over 12+ months period and a significant increase at the end of it (December 2021 – February 2022)
 
 
 Dashboard Preview
