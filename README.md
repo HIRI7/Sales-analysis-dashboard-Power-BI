@@ -30,7 +30,7 @@ Key Insights:
 
 
 Dashboard Preview
-
+https://github.com/HIRI7/Sales-analysis-dashboard-Power-BI/blob/86b0c8ee04cd193a1e94c9c381bfe4ad2073b022/Sales%20Performance%20Dashboard.png
 
 
 
